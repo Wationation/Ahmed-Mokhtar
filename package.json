@@ -1,0 +1,20 @@
+{
+  "name": "ahmed-mokhtar-pharmacy-deepseek",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "description": "UI for pharmacy احمد مختار — Vite + React. DeepSeek build: same content, upgraded design system.",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.3.4",
+    "vite": "^5.4.21"
+  }
+}
