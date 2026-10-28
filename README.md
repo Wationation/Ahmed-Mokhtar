@@ -1,6 +1,6 @@
 # صيدلية احمد مختار — deepseeksite
 
-A rebuilt, upgraded version of the original pharmacy UI, living next to it in `deepseeksite/`.
+A rebuilt, upgraded version of the original pharmacy UI
 Same content, same rules (Egyptian Arabic default + English, no fake content, admin-editable hooks) — with a stronger design system and real UX features.
 
 - Name is always **احمد مختار** (never transliterated).
